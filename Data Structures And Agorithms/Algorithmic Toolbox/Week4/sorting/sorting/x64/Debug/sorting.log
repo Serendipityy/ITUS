@@ -1,0 +1,3 @@
+﻿  sorting.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week4\sorting\sorting\sorting.cpp(61,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  sorting.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week4\sorting\x64\Debug\sorting.exe

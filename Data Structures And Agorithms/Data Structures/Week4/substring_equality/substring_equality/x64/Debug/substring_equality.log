@@ -1,0 +1,4 @@
+﻿  substring_equality.cpp
+D:\Data Structures\Week4\substring_equality\substring_equality\substring_equality.cpp(11,11): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Data Structures\Week4\substring_equality\substring_equality\substring_equality.cpp(61,27): warning C4018: '<': signed/unsigned mismatch
+  substring_equality.vcxproj -> D:\Data Structures\Week4\substring_equality\x64\Debug\substring_equality.exe

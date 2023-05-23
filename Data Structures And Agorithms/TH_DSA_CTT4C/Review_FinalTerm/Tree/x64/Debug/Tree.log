@@ -1,0 +1,4 @@
+﻿  Tree.cpp
+D:\Data Structures And Agorithms\TH_DSA_CTT4C\Review_FinalTerm\Tree\Tree.cpp(488,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Structures And Agorithms\TH_DSA_CTT4C\Review_FinalTerm\Tree\Tree.cpp(694,14): warning C4129: 'N': unrecognized character escape sequence
+  Tree.vcxproj -> D:\Data Structures And Agorithms\TH_DSA_CTT4C\Review_FinalTerm\LinkedList\x64\Debug\Tree.exe

@@ -1,0 +1,3 @@
+﻿  fibonacci.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci\fibonacci\fibonacci.cpp(35,12): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  fibonacci.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci\x64\Debug\fibonacci.exe

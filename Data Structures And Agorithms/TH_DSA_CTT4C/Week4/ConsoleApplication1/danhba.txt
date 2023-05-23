@@ -1,0 +1,10 @@
+Nguyen Van Anh,11/11/2002,0795653841,222A Ly Thuong Kiet
+Nguyen Thi Hoa,13/10/1999,0785432126,212B Nguyen Thi Minh Khai
+Tran Van Chanh,09/09/1986,0893427651,202C Vo Thi Sau
+Nguyen Van Dung,15/10/2000,0756238953,203B Ngo Quyen
+Vo Van Sau,14/10/1997,0890232920,204B Quang Trung
+Pham Son Tung,09/10/1997,0890000920,20774 Tran Hung Dao
+Vo Nhat Trung,07/10/1997,0890001232,2504B Nguyen Anh Thu
+Nguyen Van Tuan Kiet,09/08/1986,0891427651,202C Vo Van Ngan
+Pham Dat,14/08/1986,0891527651,202C Vo Thi Sau
+Tran Hoang Quan,12/04/2003,0984567321,206C Le Loi

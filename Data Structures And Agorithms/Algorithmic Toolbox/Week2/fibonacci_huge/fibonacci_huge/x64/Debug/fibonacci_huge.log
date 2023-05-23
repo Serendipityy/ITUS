@@ -1,0 +1,8 @@
+﻿  fibonacci_huge.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_huge\fibonacci_huge\fibonacci_huge.cpp(34,31): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=long
+          ]
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_huge\fibonacci_huge\fibonacci_huge.cpp(37,35): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  fibonacci_huge.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_huge\x64\Debug\fibonacci_huge.exe

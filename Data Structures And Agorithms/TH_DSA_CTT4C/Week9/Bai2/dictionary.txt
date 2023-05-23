@@ -1,0 +1,98 @@
+Understand:hieu
+Improve:cai thien
+Communicate:giao tiep
+Attend:tham du
+Continue:tiep tuc
+Announce:thong bao
+Revise:on tap
+Enroll:nhap hoc
+Succeed:thanh cong
+Memorise:hoc thuoc
+Call:goi
+Know:biet
+Tell:ke
+Spell:danh van
+Live:sinh song
+Describe:mieu ta
+Sign:ky ten
+Open:mo
+Offer:de xuat
+Design:thiet ke
+Arrange:sap xep
+Manage:quan ly
+Spend:tieu tien
+Save:tiet kiem
+Borrow:muon
+Owe:no
+Lend:cho vay
+Raise:tang
+Decrease:giam
+Throw:nem
+Lack:thieu
+Build:xay
+Face:huong ve
+Decorate:trang tri
+Share:chia se
+Inform:bao tin
+Develop:phat trien
+Invite:moi
+Book:dat cho
+Escape:tron khoi
+Experience:trai nghiem
+Discover:kham pha
+Try:thu
+Recommend:de xuat
+Taste:nem thu
+Hike:di bo duong dai
+Pray:cau nguyen
+Party:tiec tung
+Welcome:hoan nghenh
+Tidy:don dep
+Exchange:trao doi
+Expect:mong doi
+Respect:ton trong
+Believe:tin tuong
+Mean:co y dinh
+Surprise:lam bat ngo
+Control:dieu khien
+Avoid:tranh ne
+Persuade:thuyet phuc
+Approach:tiep can
+Forecast:du bao
+Last:keo dai
+Boil:luoc
+Grill:nuong
+Prepare:chuan bi
+Stir-fry:xao
+Serve:phuc vu
+Pour:rot
+Stir:khuay
+Add:them
+Roast:nuong bo lo
+Follow:tuan theo
+Stay:giu nguyen
+Snack:an vat
+Breathe:tho
+Mix:tron
+Spoil:bi hong
+Plant:trong 
+Harvest:thu hoach
+Pickle:muoi chua
+Explore:kham pha
+Grow:lon len
+Protect:bao ve
+Rely:dua dam
+Surround:bao quanh
+Sunbathe:tam nang
+Care:quan tam
+Exercise:tap the duc
+Damage:pha hong
+Prevent:phong tranh
+Remain:giu nguyen
+Injure:gay thuong tich
+Bleed:chay mau
+Hurt:lam bi dau
+Suffer:chiu dung
+Ease:xoa diu
+Consider:can nhac
+Admit:thua nhan

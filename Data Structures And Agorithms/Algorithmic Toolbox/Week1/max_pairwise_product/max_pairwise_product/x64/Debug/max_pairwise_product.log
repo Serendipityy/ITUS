@@ -1,0 +1,4 @@
+﻿  max_pairwise_product.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week1\max_pairwise_product\max_pairwise_product\max_pairwise_product.cpp(10,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week1\max_pairwise_product\max_pairwise_product\max_pairwise_product.cpp(24,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  max_pairwise_product.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week1\max_pairwise_product\x64\Debug\max_pairwise_product.exe

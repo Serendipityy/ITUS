@@ -1,0 +1,5 @@
+Nguyen Van A;21120410;9;9
+Nguyen Ngoc B;21120411;8.75;9.25
+Nguyen Thi C;21120412;7.5;8.5
+Pham Thi D;21120413;6.25;9
+Tran Van E;21120414;5.5;7.5

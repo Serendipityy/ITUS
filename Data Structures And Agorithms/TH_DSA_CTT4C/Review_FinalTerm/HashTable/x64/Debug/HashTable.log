@@ -1,0 +1,4 @@
+﻿  HashTable.cpp
+D:\Data Structures And Agorithms\TH_DSA_CTT4C\Review_FinalTerm\HashTable\HashTable.cpp(104,17): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Data Structures And Agorithms\TH_DSA_CTT4C\Review_FinalTerm\HashTable\HashTable.cpp(73): warning C4715: 'search': not all control paths return a value
+  HashTable.vcxproj -> D:\Data Structures And Agorithms\TH_DSA_CTT4C\Review_FinalTerm\LinkedList\x64\Debug\HashTable.exe

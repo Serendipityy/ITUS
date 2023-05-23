@@ -1,0 +1,5 @@
+Nguyen Huy,Hoang,21120458,Nu,8,9,10
+Hoang Thi,Khon,21120485,Nu,7,8,9
+Nguyen Quoc,Hung,21120464,7.5,8.5,9
+Nguyen Van,Hau,21120449,8,8.5,8
+Nguyen,Huyen,21120475,6,7.5,9.5

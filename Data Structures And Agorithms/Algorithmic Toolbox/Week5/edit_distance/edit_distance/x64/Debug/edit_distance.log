@@ -1,0 +1,14 @@
+﻿  edit_distance.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(9,28): error C2131: expression did not evaluate to a constant
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(9,16): message : failure was caused by a read of a variable outside its lifetime
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(9,16): message : see usage of 'str1'
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(9,45): error C2131: expression did not evaluate to a constant
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(9,33): message : failure was caused by a read of a variable outside its lifetime
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(9,33): message : see usage of 'str2'
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(9,51): error C2440: 'initializing': cannot convert from 'int' to 'int ['function'+1]['function'+1]'
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(9,49): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(12,23): error C3863: array type 'int ['function'+1]['function'+1]' is not assignable
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(17,23): error C3863: array type 'int ['function'+1]['function'+1]' is not assignable
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(23,21): error C3863: array type 'int ['function'+1]['function'+1]' is not assignable
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(28,21): error C3863: array type 'int ['function'+1]['function'+1]' is not assignable
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\edit_distance\edit_distance\edit_distance.cpp(33,1): error C2036: 'int ['function'+1]['function'+1]': unknown size

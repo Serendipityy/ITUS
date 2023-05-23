@@ -1,0 +1,4 @@
+﻿  binary_search.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week4\binary_search\binary_search\binary_search.cpp(14,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week4\binary_search\binary_search\binary_search.cpp(26,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  binary_search.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week4\binary_search\x64\Debug\binary_search.exe

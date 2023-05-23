@@ -1,0 +1,10 @@
+Hoang Van Anh,11/11/2002,0895653841,24/7 Vo Van Ngan
+Ho Minh Quan,19/10/2003,0785432126,215/2B Nguyen Thi Minh Khai
+Tran Tang,19/10/1990,0886427651,501/2 Le Duan
+Nguyen Anh Khoi,15/10/2000,0956238953,20/3B Ngo Quyen
+Tran Minh Khue,14/10/1997,0890232920,20/4B Quang Trung
+Nguyen Anh Duong,09/09/2002,0890080920,20/774 Tran Hung Dao
+Vo Van Kiet,18/10/1997,0890001232,250/41 Le Quy Don
+Nguyen Van Tuan Kiet,09/08/2003,0891427651,205 William Shakespeare
+Pham Ngoc Dat,14/08/2003,0891527651,20/2C Vo Thi Sau
+Nguyen Minh Ngoc,12/04/2001,0984567321,206 Le Loi

@@ -1,0 +1,17 @@
+﻿  lcs3.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,19): error C2131: expression did not evaluate to a constant
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,10): message : failure was caused by a read of a variable outside its lifetime
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,10): message : see usage of 'a'
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,33): error C2131: expression did not evaluate to a constant
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,24): message : failure was caused by a read of a variable outside its lifetime
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,24): message : see usage of 'b'
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,47): error C2131: expression did not evaluate to a constant
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,38): message : failure was caused by a read of a variable outside its lifetime
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(8,38): message : see usage of 'c'
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(11,58): error C3863: array type 'int ['function'+1]['function'+1]['function'+1]' is not assignable
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(18,19): error C3863: array type 'int ['function'+1]['function'+1]['function'+1]' is not assignable
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(20,19): error C3863: array type 'int ['function'+1]['function'+1]['function'+1]' is not assignable
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(32,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(34,1): error C2036: 'int ['function'+1]['function'+1]['function'+1]': unknown size
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(52,5): error C2084: function 'int main(void)' already has a body
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week5\lcs3\lcs3\lcs3.cpp(36): message : see previous definition of 'main'

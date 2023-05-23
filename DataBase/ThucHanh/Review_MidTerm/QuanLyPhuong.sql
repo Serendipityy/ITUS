@@ -1,0 +1,96 @@
+﻿USE MASTER
+GO
+
+IF DB_ID('QuanLyPhuong') IS NOT NULL
+DROP DATABASE QuanLyPhuong
+GO
+
+CREATE DATABASE QuanLyPhuong
+GO 
+
+USE QuanLyPhuong
+GO
+
+
+CREATE TABLE Phuong 
+(
+	IDPhuong CHAR(4),
+	TenPhuong NVARCHAR(20),
+	IDChuTich CHAR(4),
+	CONSTRAINT PK_Phuong
+	PRIMARY KEY (IDPhuong)
+)
+
+CREATE TABLE KhuPho
+(
+	IDPhuong CHAR(4),
+	IDTrKhuPho CHAR(4),
+	IDKhuPho INT,
+	CONSTRAINT PK_KhuPho 
+	PRIMARY KEY (IDKhuPho, IDPhuong)
+)
+
+CREATE TABLE Dan
+(
+	IDPhuong CHAR(4),
+	IDKhuPho INT,
+	Ten NVARCHAR(20),
+	TinhTrang NVARCHAR(50),
+	IDDan CHAR(4),
+	CONSTRAINT PK_Dan
+	PRIMARY KEY (IDDan, IDPhuong)
+)
+
+
+ALTER TABLE Phuong ADD
+	CONSTRAINT FK_Phuong_Dan FOREIGN KEY(IDChuTich,IDPhuong) REFERENCES Dan(IDDan,IDPhuong)
+
+
+ALTER TABLE KhuPho ADD
+	CONSTRAINT FK_KhuPho_Phuong FOREIGN KEY(IDPhuong) REFERENCES Phuong(IDPhuong),
+	CONSTRAINT FK_KhuPho_Dan FOREIGN KEY(IDTrKhuPho,IDPhuong) REFERENCES Dan(IDDan,IDPhuong)
+
+
+ALTER TABLE Dan ADD
+	CONSTRAINT FK_Dan_KhuPho FOREIGN KEY(IDKhuPho,IDPhuong) REFERENCES KhuPho(IDKhuPho,IDPhuong)
+
+INSERT INTO Phuong VALUES('PHA',N'Phường A', NULL)
+INSERT INTO Phuong VALUES('PHB',N'Phường B', NULL)
+INSERT INTO Phuong VALUES('PHC',N'Phường C', NULL)
+
+
+INSERT INTO KhuPho VALUES('PHA',NULL, 1)
+INSERT INTO KhuPho VALUES('PHA',NULL,2)
+INSERT INTO KhuPho VALUES('PHB',NULL,1)
+INSERT INTO KhuPho VALUES('PHB',NULL,2)
+
+
+INSERT INTO Dan VALUES('PHA',1,N'Nguyễn Văn A',N'còn sống','NVA')
+INSERT INTO Dan VALUES('PHA',1,N'Nguyễn Văn B',N'còn sống','NVB')
+
+INSERT INTO Dan VALUES('PHA',2,N'Nguyễn Văn C',N'còn sống','NVC')
+
+INSERT INTO Dan VALUES('PHA',2,N'Nguyễn Văn D',N'qua đời','NVD')
+
+INSERT INTO Dan VALUES('PHB',1,N'Nguyễn Văn E',N'còn sống','NVE')
+
+INSERT INTO Dan VALUES('PHB',1,N'Nguyễn Văn F',N'qua đời','NVF')
+
+INSERT INTO Dan VALUES('PHB',2,N'Nguyễn Văn G',N'còn sống','NVG')
+
+INSERT INTO Dan VALUES('PHB',2,N'Nguyễn Văn H',N'còn sống','NVH')
+
+
+
+UPDATE KhuPho SET IDTrKhuPho = 'NVA' WHERE IDPhuong = 'PHA' AND IDKhuPho = 1
+UPDATE KhuPho SET IDTrKhuPho = 'NVC' WHERE IDPhuong = 'PHA' AND IDKhuPho = 2
+UPDATE KhuPho SET IDTrKhuPho = 'NVE' WHERE IDPhuong = 'PHB' AND IDKhuPho = 1
+UPDATE KhuPho SET IDTrKhuPho = 'NVG' WHERE IDPhuong = 'PHB' AND IDKhuPho = 2
+
+UPDATE Phuong SET IDChuTich = 'NVA' WHERE IDPhuong = 'PHA'
+UPDATE Phuong SET IDChuTich = 'NVE' WHERE IDPhuong = 'PHB'
+
+
+SELECT * FROM dbo.Phuong
+SELECT * FROM dbo.Dan
+SELECT * FROM dbo.KhuPho

@@ -1,0 +1,5 @@
+﻿  fibonacci_sum_squares.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_sum_squares\fibonacci_sum_squares\fibonacci_sum_squares.cpp(6,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_sum_squares\fibonacci_sum_squares\fibonacci_sum_squares.cpp(45,20): warning C4018: '<=': signed/unsigned mismatch
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_sum_squares\fibonacci_sum_squares\fibonacci_sum_squares.cpp(47,14): warning C4018: '<=': signed/unsigned mismatch
+  fibonacci_sum_squares.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_sum_squares\x64\Debug\fibonacci_sum_squares.exe

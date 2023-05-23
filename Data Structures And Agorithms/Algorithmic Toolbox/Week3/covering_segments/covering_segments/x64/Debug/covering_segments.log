@@ -1,0 +1,3 @@
+﻿  covering_segments.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week3\covering_segments\covering_segments\covering_segments.cpp(25,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  covering_segments.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week3\covering_segments\x64\Debug\covering_segments.exe

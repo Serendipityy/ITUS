@@ -1,0 +1,8 @@
+﻿  sorting_algorithms.cpp
+D:\Data Structures And Agorithms\DSA_21CTT4\sorting_algorithms\sorting_algorithms\sorting_algorithms.cpp(67,6): warning C4101: 'i': unreferenced local variable
+D:\Data Structures And Agorithms\DSA_21CTT4\sorting_algorithms\sorting_algorithms\sorting_algorithms.cpp(315): message : see reference to function template instantiation 'void insertion2<int>(Item [],int,int)' being compiled
+          with
+          [
+              Item=int
+          ]
+  sorting_algorithms.vcxproj -> D:\Data Structures And Agorithms\DSA_21CTT4\sorting_algorithms\x64\Debug\sorting_algorithms.exe

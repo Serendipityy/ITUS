@@ -1,0 +1,4 @@
+1,Vo Van C,9.9
+2,Tran Thi B,5.5
+3,Nguyen Van A,8.6
+4,Truong Ngoc D,7.2

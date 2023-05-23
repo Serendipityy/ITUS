@@ -1,0 +1,5 @@
+Nguyen Thi Mo;21120460;7.5;8.25
+Nguyen Ngoc Loc;21120461;6;5.5
+Nguyen Van Bay;21120462;8;9.5
+Tran Quoc Tuan;21120463;6.5;5.75
+Ly Thuong Kiet;21120464;7;7.25

@@ -1,0 +1,3 @@
+﻿  majority_element.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week4\majority_element\majority_element\majority_element.cpp(44,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  majority_element.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week4\majority_element\x64\Debug\majority_element.exe

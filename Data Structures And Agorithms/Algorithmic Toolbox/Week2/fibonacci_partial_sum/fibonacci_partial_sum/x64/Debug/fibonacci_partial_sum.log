@@ -1,0 +1,10 @@
+﻿  fibonacci_partial_sum.cpp
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_partial_sum\fibonacci_partial_sum\fibonacci_partial_sum.cpp(42,12): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=long
+          ]
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_partial_sum\fibonacci_partial_sum\fibonacci_partial_sum.cpp(47,32): warning C4018: '<=': signed/unsigned mismatch
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_partial_sum\fibonacci_partial_sum\fibonacci_partial_sum.cpp(53,10): warning C4018: '>=': signed/unsigned mismatch
+D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_partial_sum\fibonacci_partial_sum\fibonacci_partial_sum.cpp(56,10): warning C4018: '<=': signed/unsigned mismatch
+  fibonacci_partial_sum.vcxproj -> D:\Data Structures And Agorithms\Algorithmic Toolbox\Week2\fibonacci_partial_sum\x64\Debug\fibonacci_partial_sum.exe

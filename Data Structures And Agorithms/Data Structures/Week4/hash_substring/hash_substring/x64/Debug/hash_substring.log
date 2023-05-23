@@ -1,0 +1,7 @@
+﻿  hash_substring.cpp
+D:\Data Structures\Week4\hash_substring\hash_substring\hash_substring.cpp(60,56): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  hash_substring.vcxproj -> D:\Data Structures\Week4\hash_substring\x64\Debug\hash_substring.exe
