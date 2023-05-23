@@ -1,0 +1,16 @@
+a) 
+* Chương trình in ra: "B text" và "A default"
+* Trình tự gọi hàm trong hàm main():
+  - Tạo đối tượng B obj1 với đối số truyền vào là chuỗi "text" và lưu trữ trong biến obj1.
+  - Tạo con trỏ obj2 trỏ tới một đối tượng B được khởi tạo từ đối tượng obj1.
+  - Gọi hàm foo() với đối số là con trỏ obj1 và đối tượng sao chép của obj2.
+    + Trong hàm foo(), gọi phương thức display của obj1 (là một đối tượng của lớp B). 
+    + Trong phương thức này, hàm prepare() của lớp B được gọi trước -> in ra "B"
+    + Sau đó, chuỗi "text" được in ra màn hình.
+  - Tiếp theo, gọi phương thức display của obj2 (là một đối tượng của lớp A). 
+    + Trong phương thức này, hàm prepare() của lớp A được gọi trước -> in ra "A"
+    + Sau đó, chuỗi "default" được in ra màn hình.
+
+b) Chương trình trên gặp vấn đề về bộ nhớ vì thiếu destructor, copy constructor và chưa delete con trỏ trong hàm main
+- Trong lớp A, vùng nhớ được cấp phát cho m_s bằng hàm strdup() sẽ không được giải phóng khi đối tượng A bị hủy -> rò rỉ bộ nhớ khi các đối tượng A hoặc B bị hủy.
+- Để sửa chương trình, chúng ta cần thêm hàm hủy cho lớp A để giải phóng vùng nhớ được cấp phát cho m_s bằng hàm free(). Và cần thêm copy constructor để khi sao chép một đối tượng A, một vùng nhớ mới sẽ được cấp phát cho chuỗi m_s để tránh xung đột trong việc giải phóng bộ nhớ.

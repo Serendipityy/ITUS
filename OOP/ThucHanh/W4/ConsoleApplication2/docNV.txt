@@ -1,0 +1,6 @@
+SX,001,Nguyen Van A,01/01/1990,Ha Noi,500
+CN,002,Tran Thi B,02/02/2001,Hai Phong,20
+SX,003,Pham Van C,03/03/1995,Quang Ninh,800
+CN,004,Hoang Thi D,04/04/1998,Nam Dinh,25
+SX,005,Le Van E,05/05/1998,TP Ho Chi Minh,1000
+SX,006,Vuong F,20/05/2000,TP Ho Chi Minh,450

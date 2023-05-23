@@ -1,0 +1,49 @@
+So luong nhan vien: 4
+
+
+	THONG TIN NHAN VIEN THU 1
+Loai nhan vien: Cong nhat
+Ma nhan vien: CN001
+Ho ten: Xiao Li
+Gioi tinh: nu
+Ngay sinh: 19/5/2001
+Dia chi: Beijing
+So ngay lam: 15
+Luong: 7500000
+
+
+
+	THONG TIN NHAN VIEN THU 2
+Loai nhan vien: San xuat
+Ma nhan vien: SX002
+Ho ten: Scout
+Gioi tinh: nam
+Ngay sinh: 16/5/1998
+Dia chi: Shanghai
+So san pham: 19
+Luong: 950000
+
+
+
+	THONG TIN NHAN VIEN THU 3
+Loai nhan vien: Cong nhat
+Ma nhan vien: CN002
+Ho ten: HuaHua
+Gioi tinh: nu
+Ngay sinh: 25/4/2003
+Dia chi: Hangzhou
+So ngay lam: 20
+Luong: 10000000
+
+
+
+	THONG TIN NHAN VIEN THU 4
+Loai nhan vien: Cong nhat
+Ma nhan vien: CN005
+Ho ten: Jie Jie
+Gioi tinh: nam
+Ngay sinh: 1/1/2000
+Dia chi: Xian
+So ngay lam: 2
+Luong: 1000000
+

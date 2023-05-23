@@ -1,0 +1,39 @@
+S
+SX001
+Thao Linh
+1
+02 05 2003
+Thu Duc
+10
+
+C
+CN001
+Huy Hoang
+1
+03 04 2003
+Quang Ngai
+25
+
+C
+CN002
+Hoang Khon
+1
+28 03 2003
+Dak Lak
+24
+
+S
+SX002
+Hai Linh
+1
+28 12 2003
+Binh Thuan
+10
+
+S
+SX003
+My Lam
+0
+16 05 2003
+Thu Duc
+12

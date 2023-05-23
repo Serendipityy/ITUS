@@ -1,0 +1,5 @@
+﻿  Chap3.cpp
+D:\OOP\LyThuyet\TuHoc\TDQ\Chap3\Chap3\Chap3\Chap3.cpp(29,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  Chap3.vcxproj -> D:\OOP\LyThuyet\TuHoc\TDQ\Chap3\Chap3\x64\Debug\Chap3.exe

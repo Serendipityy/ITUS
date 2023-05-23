@@ -1,0 +1,4 @@
+CSC101,Introduction to Computer Science,Monday 9:00-12:00
+CSC102,Data Structures and Algorithms,Wednesday 13:00-16:00
+CSC103,Web Development,Tuesday 20:00-22:30
+CSC104,Object Oriented Programming,Friday 14:30-16:30

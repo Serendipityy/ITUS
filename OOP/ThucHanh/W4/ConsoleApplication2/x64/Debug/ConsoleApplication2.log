@@ -1,0 +1,5 @@
+﻿  CongTy.cpp
+D:\OOP\ThucHanh\W4\ConsoleApplication2\CongTy.cpp(251,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  ConsoleApplication2.vcxproj -> D:\OOP\ThucHanh\W4\x64\Debug\Bai2.exe

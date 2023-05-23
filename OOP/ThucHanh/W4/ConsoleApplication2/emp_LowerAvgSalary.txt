@@ -1,0 +1,21 @@
+Danh sach nhan vien co luong thap hon luong trung binh (11416667)
+Ma nhan vien: 001
+Ten nhan vien: Nguyen Van A
+Ngay sinh nhan vien: 01/01/1990
+Luong nhan vien: 10000000
+
+Ma nhan vien: 002
+Ten nhan vien: Tran Thi B
+Ngay sinh nhan vien: 02/02/2001
+Luong nhan vien: 6000000
+
+Ma nhan vien: 004
+Ten nhan vien: Hoang Thi D
+Ngay sinh nhan vien: 04/04/1998
+Luong nhan vien: 7500000
+
+Ma nhan vien: 006
+Ten nhan vien: Vuong F
+Ngay sinh nhan vien: 20/05/2000
+Luong nhan vien: 9000000
+

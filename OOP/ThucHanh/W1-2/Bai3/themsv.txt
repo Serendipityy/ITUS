@@ -1,0 +1,43 @@
+So luong sinh vien: 7
+Ho va ten: Hoang Linh
+Ma so sinh vien: 21120485
+Ngay sinh: 22/03/2003
+Diem bai tap, giua ky, cuoi ky: 8 8 7
+Diem trung binh: 7.5
+
+Ho va ten: Ngoc Ha
+Ma so sinh vien: 21120483
+Ngay sinh: 24/02/2003
+Diem bai tap, giua ky, cuoi ky: 8 6 8
+Diem trung binh: 7.5
+
+Ho va ten: Hoang Thao Linh
+Ma so sinh vien: 21120409
+Ngay sinh: 21/03/2003
+Diem bai tap, giua ky, cuoi ky: 5 4 4
+Diem trung binh: 4.25
+
+Ho va ten: Nguyen Trang Huyen
+Ma so sinh vien: 21120488
+Ngay sinh: 21/03/2003
+Diem bai tap, giua ky, cuoi ky: 8 10 9
+Diem trung binh: 9
+
+Ho va ten: Ha Lam
+Ma so sinh vien: 21120414
+Ngay sinh: 22/03/2003
+Diem bai tap, giua ky, cuoi ky: 3.5 5 4.6
+Diem trung binh: 4.425
+
+Ho va ten: zihao
+Ma so sinh vien: 013
+Ngay sinh: 02/05/1990
+Diem bai tap, giua ky, cuoi ky: 7.5 9.5 10
+Diem trung binh: 9.25
+
+Ho va ten: abc
+Ma so sinh vien: 1
+Ngay sinh: 1/1/1001
+Diem bai tap, giua ky, cuoi ky: 4 5.5 3.5
+Diem trung binh: 4.125
+

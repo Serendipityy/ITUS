@@ -1,0 +1,4 @@
+SV001,Nguyen Truong An,01/01/2000,Ha Noi
+SV002,Ha Lam Giang,02/02/2000,TP Ho Chi Minh
+SV003,Nguyen Anh Duong,04/06/2003,Quang Ninh
+SV004,Vuong Hoang Khai,05/08/2003,TP Ho Chi Minh

@@ -1,0 +1,7 @@
+﻿  DaThuc.cpp
+  DonThuc.cpp
+D:\OOP\ThucHanh\W3\Bai3\DonThuc.cpp(41,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  menu.cpp
+  Generating Code...
+  Bai3.vcxproj -> D:\OOP\ThucHanh\W3\x64\Debug\Bai3.exe

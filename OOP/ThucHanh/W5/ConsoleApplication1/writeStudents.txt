@@ -1,0 +1,16 @@
+Ma sinh vien: SV001
+Ten sinh vien: Nguyen Truong An
+Ngay sinh: 01/01/2000
+Dia chi: Ha Noi
+Ma sinh vien: SV002
+Ten sinh vien: Ha Lam Giang
+Ngay sinh: 02/02/2000
+Dia chi: TP Ho Chi Minh
+Ma sinh vien: SV003
+Ten sinh vien: Nguyen Anh Duong
+Ngay sinh: 04/06/2003
+Dia chi: Quang Ninh
+Ma sinh vien: SV004
+Ten sinh vien: Vuong Hoang Khai
+Ngay sinh: 05/08/2003
+Dia chi: TP Ho Chi Minh

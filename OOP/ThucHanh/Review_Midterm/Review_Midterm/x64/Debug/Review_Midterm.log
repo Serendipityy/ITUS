@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Review_Midterm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BackEndDev.cpp
+  Developer.cpp
+  FrontEndDev.cpp
+D:\OOP\ThucHanh\Review_Midterm\Review_Midterm\FrontEndDev.cpp(29,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  FullStackDev.cpp
+  main.cpp
+  Generating Code...
+  Review_Midterm.vcxproj -> D:\OOP\ThucHanh\Review_Midterm\x64\Debug\DeveloperManagement.exe

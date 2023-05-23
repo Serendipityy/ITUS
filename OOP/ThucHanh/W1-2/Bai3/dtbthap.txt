@@ -1,0 +1,19 @@
+Danh sach sinh vien co diem trung binh nho hon diem trung binh cua lop (6.57857):
+Ho va ten: Hoang Thao Linh
+Ma so sinh vien: 21120409
+Ngay sinh: 21/03/2003
+Diem bai tap, giua ky, cuoi ky: 5 4 4
+Diem trung binh: 4.25
+
+Ho va ten: Ha Lam
+Ma so sinh vien: 21120414
+Ngay sinh: 22/03/2003
+Diem bai tap, giua ky, cuoi ky: 3.5 5 4.6
+Diem trung binh: 4.425
+
+Ho va ten: abc
+Ma so sinh vien: 1
+Ngay sinh: 1/1/1001
+Diem bai tap, giua ky, cuoi ky: 4 5.5 3.5
+Diem trung binh: 4.125
+

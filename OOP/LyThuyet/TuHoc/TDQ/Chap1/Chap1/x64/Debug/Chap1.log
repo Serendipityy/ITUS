@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OOP\LyThuyet\TuHoc\TDQ\Chap1\Chap1\main.cpp(5,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\OOP\LyThuyet\TuHoc\TDQ\Chap1\Chap1\main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chap1.vcxproj -> D:\OOP\LyThuyet\TuHoc\TDQ\Chap1\x64\Debug\Chap1.exe

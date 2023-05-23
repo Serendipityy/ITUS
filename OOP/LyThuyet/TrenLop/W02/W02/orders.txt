@@ -1,0 +1,66 @@
+Ten khach hang: Meiko
+Thoi gian dat hang: 03/09/23 22:20:20
+------------------------------
+Ma sach (ISBN): 52013142525
+Ten sach: Natural language processing
+Tac gia: Shunyu Yao
+Ngon ngu: Chinese
+Nam xuat ban: 2020
+Gia ban: 199900
+So luong sach hien co: 96
+Ngay nhap: 2022-6-6 9:0:0
+
+Ma sach (ISBN): 25251325
+Ten sach: Javascript Basic
+Tac gia: Edward Tian
+Ngon ngu: English
+Nam xuat ban: 2019
+Gia ban: 250500
+So luong sach hien co: 10
+Ngay nhap: 2023-1-1 12:5:0
+
+
+Ten khach hang: John Doe
+Thoi gian dat hang: 03/09/23 22:17:20
+------------------------------
+Ma sach (ISBN): 52013142525
+Ten sach: Natural language processing
+Tac gia: Shunyu Yao
+Ngon ngu: Chinese
+Nam xuat ban: 2020
+Gia ban: 199900
+So luong sach hien co: 96
+Ngay nhap: 2022-6-6 9:0:0
+
+Ma sach (ISBN): 25251325
+Ten sach: Javascript Basic
+Tac gia: Edward Tian
+Ngon ngu: English
+Nam xuat ban: 2019
+Gia ban: 250500
+So luong sach hien co: 10
+Ngay nhap: 2023-1-1 12:5:0
+
+
+Ten khach hang: John Doe
+Thoi gian dat hang: 03/09/23 22:14:07
+------------------------------
+Ma sach (ISBN): 1234567890123
+Ten sach: C++ Programming
+Tac gia: John Smith
+Ngon ngu: English
+Nam xuat ban: 2020
+Gia ban: 19.99
+So luong sach hien co: 100
+Ngay nhap: 2020-1-1 12:0:0
+
+Ma sach (ISBN): 2345678901234
+Ten sach: Introduction to Python
+Tac gia: Jane Doe
+Ngon ngu: English
+Nam xuat ban: 2019
+Gia ban: 14.99
+So luong sach hien co: 50
+Ngay nhap: 2019-1-1 12:0:0
+
+

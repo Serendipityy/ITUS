@@ -1,0 +1,21 @@
+
+
+	THONG TIN NHAN VIEN CO LUONG NHO HON LUONG TRUNG BINH: 
+Loai nhan vien: San xuat
+Ma nhan vien: SX002
+Ho ten: Scout
+Gioi tinh: nam
+Ngay sinh: 16/5/1998
+Dia chi: Shanghai
+So san pham: 19
+Luong: 950000
+
+Loai nhan vien: Cong nhat
+Ma nhan vien: CN005
+Ho ten: Jie Jie
+Gioi tinh: nam
+Ngay sinh: 1/1/2000
+Dia chi: Xian
+So ngay lam: 2
+Luong: 1000000
+

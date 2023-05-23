@@ -1,0 +1,5 @@
+﻿  HandleGame.cpp
+  main.cpp
+D:\OOP\LyThuyet\TrenLop\W08\ConsoleApplication3\main.cpp(23,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ConsoleApplication3.vcxproj -> D:\OOP\LyThuyet\TrenLop\W08\x64\Debug\ConsoleApplication3.exe

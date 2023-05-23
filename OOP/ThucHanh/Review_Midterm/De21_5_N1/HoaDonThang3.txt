@@ -1,0 +1,23 @@
+Danh sach hoa don thang 03 nam 2021 cua khach hang Viet Nam:
+
+Khach hang Tian Ye - KH001:
+Ngay hoa don: 20/03/2021
+Loai khach hang: sinh hoat
+So luong: 50
+Don gia: 350.5
+Thanh tien: 17525
+
+Khach hang 123 - KH004:
+Ngay hoa don: 12/03/2021
+Loai khach hang: sinh hoat
+So luong: 25
+Don gia: 30.5
+Thanh tien: 762.5
+
+Khach hang Chang An - KH005:
+Ngay hoa don: 20/03/2021
+Loai khach hang: san xuat
+So luong: 50
+Don gia: 362.1
+Thanh tien: 18105
+

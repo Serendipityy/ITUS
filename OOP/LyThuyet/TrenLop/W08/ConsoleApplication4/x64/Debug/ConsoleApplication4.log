@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+D:\OOP\LyThuyet\TrenLop\W08\ConsoleApplication4\ConsoleApplication4.cpp(124,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication4.vcxproj -> D:\OOP\LyThuyet\TrenLop\W08\x64\Debug\ConsoleApplication4.exe

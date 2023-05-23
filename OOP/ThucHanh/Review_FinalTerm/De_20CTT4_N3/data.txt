@@ -1,0 +1,58 @@
+1
+12345
+Tian Ye
+
+16
+Nanjing Road
+Pudong
+Huangpu
+Shanghai
+12 12 2021
+2000
+4
+
+
+2
+13146
+Tang
+
+11/5A
+Highbridge Park
+Manhattan
+Bronx
+NewYork
+1 6 2019
+1000
+6
+2
+2
+
+
+1
+12345
+Tian Ye
+
+16
+Nanjing Road
+Pudong
+Huangpu
+Shanghai
+12 12 2021
+1000
+4
+
+
+2
+13146
+Tang
+
+11/5A
+Highbridge Park
+Manhattan
+Bronx
+NewYork
+1 6 2019
+2000
+6
+2
+2

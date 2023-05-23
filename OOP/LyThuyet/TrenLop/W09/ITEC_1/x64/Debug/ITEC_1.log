@@ -1,0 +1,3 @@
+﻿  ITEC_1.cpp
+D:\OOP\LyThuyet\TrenLop\W09\ITEC_1\ITEC_1.cpp(43,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ITEC_1.vcxproj -> D:\OOP\LyThuyet\TrenLop\W09\x64\Debug\ITEC_1.exe

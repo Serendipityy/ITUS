@@ -1,0 +1,47 @@
+1
+KH001
+Tian Ye
+20/03/2021
+50
+350.5
+sinh hoat
+
+2
+KH002
+ShunYu Yao
+20/05/2021
+500
+36.5
+China
+
+2
+KH003
+Edward Tian
+15/02/2021
+250
+32.5
+USA
+
+1
+KH004
+123
+12/03/2021
+25
+30.5
+sinh hoat
+
+1
+KH005
+Chang An
+20/03/2021
+50
+362.1
+san xuat
+
+2
+KH006
+Jie Jie
+15/03/2021
+25
+12.5
+China

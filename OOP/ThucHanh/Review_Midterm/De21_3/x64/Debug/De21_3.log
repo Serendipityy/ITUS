@@ -1,0 +1,7 @@
+﻿  DocGia.cpp
+D:\OOP\ThucHanh\Review_Midterm\De21_3\DocGia.cpp(87,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  QLThuVien.cpp
+  main.cpp
+  Generating Code...
+D:\OOP\ThucHanh\Review_Midterm\De21_3\DocGia.cpp(92): warning C4715: 'DocGia::TinhPhi': not all control paths return a value
+  De21_3.vcxproj -> D:\OOP\ThucHanh\Review_Midterm\x64\Debug\De21_3.exe

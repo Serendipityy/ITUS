@@ -1,0 +1,13 @@
+So luong sinh vien: 2
+Ho va ten: meiko
+Ma so sinh vien: 011
+Ngay sinh: 06/06/1998
+Diem bai tap, giua ky, cuoi ky: 9 8.5 9
+Diem trung binh: 8.875
+
+Ho va ten: scout
+Ma so sinh vien: 012
+Ngay sinh: 21/03/1998
+Diem bai tap, giua ky, cuoi ky: 8.5 8 9
+Diem trung binh: 8.625
+
